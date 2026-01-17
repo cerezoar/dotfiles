@@ -99,7 +99,8 @@ alias fo='fossil'
 alias fd='fdfind'
 
 # Git 
-alias gits='git add . && git commit -a'
+alias gitp='git pull'
+alias gits='git add . && git commit -a && git push'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
