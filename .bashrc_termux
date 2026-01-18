@@ -95,7 +95,7 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias cls='clear'
-alias vim='nvim'
+#alias vim='nvim'
 
 
 # alias for task warrior 
@@ -113,10 +113,10 @@ alias vim='nvim'
 #alias cal='calcurse -D "/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/02_Aldrin/aldrin-calcurse"'
 
 # aliases for file directories
-alias acfiles="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin'"
-alias work="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/01_Analog'"
-alias home="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/02_Aldrin'"
-alias note="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/02_Aldrin/Aldrin - MD Notes'"
+#alias acfiles="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin'"
+#alias work="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/01_Analog'"
+#alias home="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/02_Aldrin'"
+#alias note="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/02_Aldrin/Aldrin - MD Notes'"
 
 # development environment
 alias py='python3'
