@@ -3,3 +3,5 @@
 	name = Aldrin Cerezo
 [init]
 	defaultBranch = main
+[core]
+	editor = nano

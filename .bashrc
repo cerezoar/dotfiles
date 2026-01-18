@@ -1,4 +1,5 @@
-export VISUAL=nvim
+export VISUAL=nano
+export EDITOR=nano
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
@@ -98,18 +99,18 @@ alias vim='nvim'
 
 
 # alias for task warrior 
-alias tl='task list'
-alias ta='task add'
-alias tw='task waiting'
-alias tn='task next'
-alias thm='task history.monthly'
-alias tcon='task context'
-alias tsum='task summary'
-alias tpro='task projects'
+#alias tl='task list'
+#alias ta='task add'
+#alias tw='task waiting'
+#alias tn='task next'
+#alias thm='task history.monthly'
+#alias tcon='task context'
+#alias tsum='task summary'
+#alias tpro='task projects'
 
 
 # alias for calcurse
-alias cal='calcurse -D "/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/02_Aldrin/aldrin-calcurse"'
+#alias cal='calcurse -D "/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/02_Aldrin/aldrin-calcurse"'
 
 # aliases for file directories
 alias acfiles="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin'"
@@ -120,6 +121,8 @@ alias note="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_A
 # development environment
 alias py='python3'
 
+# Git
+alias gits='git add . && git commit -a && git push'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
