@@ -123,6 +123,7 @@ alias py='python3'
 
 # Git
 alias gits='git add . && git commit -a && git push'
+alias gitp='git pull'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
