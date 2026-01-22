@@ -1,3 +1,6 @@
+export VISUAL='nano'
+export EDITOR='nano'
+
 # SHIORI Aliase
 alias shp='shiori print --portable'
 alias sh='shiori'
@@ -32,6 +35,10 @@ alias op='open "$(fd -t d | fzf)"'
 
 # using explorer
 alias open='explorer'
+
+# Git
+alias gitp='git pull'
+alias gits='git add . && git commit -a && git push'
 
 
 # add to environement variable
