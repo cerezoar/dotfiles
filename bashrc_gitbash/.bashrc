@@ -67,6 +67,8 @@ export PATH=$PATH:"/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Al
 
 # Python scripts
 export PATH=$PATH:"/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_Aldrin/02_Aldrin/python-files/_scripts"
+export PATH=$PATH:"/c/Users/acerezo/py_scripts"
 
 
 set UV_NATIVE_TLS=1
+
