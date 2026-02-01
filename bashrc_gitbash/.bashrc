@@ -40,6 +40,9 @@ alias open='explorer'
 alias gitp='git pull'
 alias gits='git add . && git commit -a && git push'
 
+# WSL
+alias wsloff='wsl --shutdown' 
+alias wslstat='wsl -l -v'
 
 # add to environement variable
 alias env='echo "export PATH=/PATH:'$(pwd)'" >> ~/.bashrc'
