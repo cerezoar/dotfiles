@@ -44,6 +44,14 @@ alias gits='git add . && git commit -a && git push'
 alias wsloff='wsl --shutdown' 
 alias wslstat='wsl -l -v'
 
+# CZKAWKA
+alias czkawka='windows_czkawka_cli'
+
+
+# btop4win
+alias btop='btop4win'
+
+
 # add to environement variable
 alias env='echo "export PATH=/PATH:'$(pwd)'" >> ~/.bashrc'
 
